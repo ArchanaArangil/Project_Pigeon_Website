@@ -32,7 +32,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #5fcf80;
+  background: #d11149;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -46,7 +46,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #7ed899;
+  background: #e6c229;
   color: #fff;
 }
 
@@ -74,7 +74,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #5fcf80;
+  border: 6px solid #d11149;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -1448,7 +1448,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #5fcf80;
+  color: #e6c229;
   font-size: 18px;
   line-height: 1;
 }
@@ -1472,7 +1472,7 @@ section {
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #5fcf80;
+  color: #d11149;
 }
 
 #footer .footer-newsletter {
@@ -1529,18 +1529,18 @@ section {
 }
 
 #footer .credits a {
-  color: #3ac162;
+  color: #e6c229;
   transition: 0.3s;
 }
 
 #footer .credits a:hover {
-  color: #5fcf80;
+  color: #d11149;
 }
 
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #5fcf80;
+  background: #e6c229;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1553,7 +1553,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #3ac162;
+  background: #d11149;
   color: #fff;
   text-decoration: none;
 }
